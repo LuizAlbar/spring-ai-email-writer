@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/06ac2933-0ab6-43f4-82e7-611768970c45
-
 # Email Writer Assistant ✍️🤖
 
 Assistente de respostas de e-mail com IA que se integra diretamente ao Gmail. Construído com **Spring Boot** (backend), **React** (interface de testes) e uma **extensão para Chrome** (injeção no Gmail). Utiliza a API Gemini do Google para gerar respostas contextuais com tom personalizável.
