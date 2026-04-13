@@ -16,6 +16,8 @@ function createAIButton() {
     const button = document.createElement("div");
     button.className = "T-I J-J5-Ji aoO v7 T-I-atl L3";
     button.style.marginRight = "8px";
+    button.style.borderRadius = "50px"
+    button.style.backgroundColor = "#0b57d0";
     button.innerHTML = "AI Reply";
     button.setAttribute("role", "button");
     button.setAttribute("data-tooltip", "Generate AI Reply");
