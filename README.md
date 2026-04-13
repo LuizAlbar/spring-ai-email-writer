@@ -8,8 +8,9 @@ Assistente de respostas de e-mail com IA que se integra diretamente ao Gmail. Co
 ![Gemini API](https://img.shields.io/badge/Gemini-API-orange.svg)
 
 ---
-## 📺 Demonstração do funcionamento
-![Demonstração em vídeo](https://github.com/LuizAlbar/spring-ai-email-writer/tree/main/assets/demo.mp4)
+## 🔍 Preview do funcionamento
+<video src="https://github.com/LuizAlbar/spring-ai-email-writer/raw/main/assets/demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
